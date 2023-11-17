@@ -54,7 +54,7 @@ A few of the things you must know about TalentTorch:
 * High Reliability
 
 <p align="center">
-  <img src = "https://www.shutterstock.com/image-photo/ai-technology-on-mobile-devices-260nw-2261795869.jpg" width=700>
+  <img src = "https://thumbs.dreamstime.com/b/digital-transformation-technology-strategy-ideas-adoption-business-age-enhancing-global-capabilities-215266548.jpg" width=700>
 </p>
 
 ## Build Process
