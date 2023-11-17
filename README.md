@@ -59,19 +59,17 @@ A few of the things you must know about TalentTorch:
 
 ## Build Process
 
-- Follow the [Hugging Face Transformer](https://huggingface.co/docs/api-inference/index) for getting started building a project with Hugging Face Transformer's API.
-- Clone or download the repo
-- `pip` to install dependencies
-- `import` to use the dependencies
+- Using the Data Preprocessing Techniques to clean the data like removing Stopwords,special Characters, Some html tags etc.
+- Collection of data.
+- using streamlit to develop an end to end project
+
 
 ## Usage
  ``` bash
 pip install -r requirements 
 ```
 ``` bash
-git clone https://github.com/2003vivek/ByteBrief
+git clone https://github.com/2003vivek/TalentTorch
 ```
-## Acknowledgments
 
-Thanks to [HuggingFace](https://huggingface.co/knkarthick/MEETING_SUMMARY) for supporting me with a [free API of their Transformer](https://huggingface.co/knkarthick/MEETING_SUMMARY).
 
