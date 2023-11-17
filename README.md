@@ -45,16 +45,16 @@ This Web-App is a Resume Screener app which can analyze the uploaded resume an c
 
 ## Features
 
-A few of the things you must know about ByteBrief:
+A few of the things you must know about TalentTorch:
 
-* View Your Summary withing seconds.
-* user friendly
-* Time Saving
+* Check the Resumes within Seconds with this AI.
+* user friendly Interface
+* Single Page
 * Interactive UI
-* Rest you need to explore yourself!!!!
+* High Reliability
 
 <p align="center">
-  <img src = "https://www.suntec.ai/img/extractive-text-summarization.jpg" width=700>
+  <img src = "https://www.shutterstock.com/image-photo/ai-technology-on-mobile-devices-260nw-2261795869.jpg" width=700>
 </p>
 
 ## Build Process
