@@ -40,7 +40,7 @@
 This Web-App is a Resume Screener app which can analyze the uploaded resume an can tell what resume is applied for or suited for by this AI.It uses the NLP and Machine Learning Algorithm Like KNeighbors.With an accuracy of 97.48%
 
 <p align="center">
-  <img src = "/assets/resume-screening.png" width=1200 height=500>
+  <img src = "/assets/resume-screening.png" width=1200 height=800>
 </p>
 
 ## Features
