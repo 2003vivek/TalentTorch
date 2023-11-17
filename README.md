@@ -15,7 +15,7 @@
 <h1 align="center"> TalentTorch </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6M6fiKuTBgkp5IKeGcdqImRmycB0PWQEaE_UCfYVqOAYKBrNAv3ne6yE7gG7SMqYdhTw&usqp=CAU" width="450">
+    <img alt="GitPoint" title="GitPoint" src="https://static.vecteezy.com/system/resources/previews/004/235/492/non_2x/tt-logo-monogram-emblem-style-with-crown-shape-design-template-free-vector.jpg" width="450">
   </a>
 </p>
 
